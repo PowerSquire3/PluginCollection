@@ -1232,5 +1232,14 @@
         "jarName": "ChatFeelings.jar",
         "configName": "ChatFeelings",
         "freePlugin": true
+    },
+    {
+	    "name": "CleanroomGenerator
+	    "desc": "Helps Word Climate",
+	    "jarname": "CleanroomGenerator.jar
+	    "configname": "CleanroomGenerator"
     }
+    
+    
+	
 ]
